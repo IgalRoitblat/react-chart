@@ -1,0 +1,32 @@
+.Dropdown {
+    width: 15%;
+    margin: 1%;
+    padding: 1% 0;
+    position: relative;
+    border: 1px solid;
+    text-align: center;
+    cursor: pointer;
+    .dd-list {
+        position: absolute;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        top: 100%;
+        z-index: 1;
+        background-color: white;
+        margin-top: 5%;
+        padding: 1% 0;
+        width: 100%;
+        list-style: none;
+        border: 1px solid;
+        .dd-list-item {
+            padding: 1%;
+            width: 100%;
+            text-align: center;
+            &:hover {
+                background-color: #eeee;
+            }
+        }
+    }
+}

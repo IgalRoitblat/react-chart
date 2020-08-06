@@ -1,0 +1,1362 @@
+[
+  {
+    "_id": "5f23237a4c8e73d80b7912e9",
+    "segmentA": 4562,
+    "segmentB": 3510,
+    "segmentC": 2911,
+    "segmentD": 1237,
+    "date": "Sunday, January 14, 2018 3:50 PM"
+  },
+  {
+    "_id": "5f23237adf423753aa3813ef",
+    "segmentA": 4248,
+    "segmentB": 3393,
+    "segmentC": 2831,
+    "segmentD": 1930,
+    "date": "Tuesday, October 9, 2018 8:44 PM"
+  },
+  {
+    "_id": "5f23237a45f6bb0149e2f0d3",
+    "segmentA": 4079,
+    "segmentB": 3123,
+    "segmentC": 2390,
+    "segmentD": 1701,
+    "date": "Wednesday, June 19, 2019 2:23 PM"
+  },
+  {
+    "_id": "5f23237adcb3efb98bb7b30f",
+    "segmentA": 4297,
+    "segmentB": 3184,
+    "segmentC": 2957,
+    "segmentD": 1049,
+    "date": "Wednesday, September 26, 2018 2:43 AM"
+  },
+  {
+    "_id": "5f23237a6f60b781af71466a",
+    "segmentA": 4417,
+    "segmentB": 3580,
+    "segmentC": 2966,
+    "segmentD": 1612,
+    "date": "Wednesday, May 8, 2019 5:49 PM"
+  },
+  {
+    "_id": "5f23237a7720d09ae05921af",
+    "segmentA": 4282,
+    "segmentB": 3048,
+    "segmentC": 2524,
+    "segmentD": 1483,
+    "date": "Monday, December 16, 2019 1:56 AM"
+  },
+  {
+    "_id": "5f23237ab336989f6e4cdc17",
+    "segmentA": 4475,
+    "segmentB": 3385,
+    "segmentC": 2758,
+    "segmentD": 1128,
+    "date": "Sunday, April 12, 2020 1:26 AM"
+  },
+  {
+    "_id": "5f23237a371c894ebab80d11",
+    "segmentA": 4553,
+    "segmentB": 3962,
+    "segmentC": 2775,
+    "segmentD": 1352,
+    "date": "Tuesday, July 2, 2019 4:30 PM"
+  },
+  {
+    "_id": "5f23237acdc2bf35ca1863d2",
+    "segmentA": 4946,
+    "segmentB": 3282,
+    "segmentC": 2549,
+    "segmentD": 1996,
+    "date": "Sunday, December 23, 2018 1:37 AM"
+  },
+  {
+    "_id": "5f23237afcaeb29112fb5b9c",
+    "segmentA": 4796,
+    "segmentB": 3862,
+    "segmentC": 2122,
+    "segmentD": 1547,
+    "date": "Friday, June 8, 2018 4:39 AM"
+  },
+  {
+    "_id": "5f23237a025651b8d4038445",
+    "segmentA": 4240,
+    "segmentB": 3551,
+    "segmentC": 2943,
+    "segmentD": 1324,
+    "date": "Tuesday, April 21, 2020 9:41 AM"
+  },
+  {
+    "_id": "5f23237afdc187d19fccd1f9",
+    "segmentA": 4709,
+    "segmentB": 3608,
+    "segmentC": 2145,
+    "segmentD": 1008,
+    "date": "Friday, October 25, 2019 2:28 AM"
+  },
+  {
+    "_id": "5f23237a13d0c700a9f15bef",
+    "segmentA": 4386,
+    "segmentB": 3642,
+    "segmentC": 2420,
+    "segmentD": 1901,
+    "date": "Monday, December 9, 2019 8:29 PM"
+  },
+  {
+    "_id": "5f23237a967aaccbfc3b0fca",
+    "segmentA": 4008,
+    "segmentB": 3059,
+    "segmentC": 2067,
+    "segmentD": 1597,
+    "date": "Thursday, June 7, 2018 10:19 AM"
+  },
+  {
+    "_id": "5f23237aa64ae460e820a8f5",
+    "segmentA": 4128,
+    "segmentB": 3749,
+    "segmentC": 2464,
+    "segmentD": 1287,
+    "date": "Monday, February 19, 2018 7:12 AM"
+  },
+  {
+    "_id": "5f23237a55b3f24a7c8f93d8",
+    "segmentA": 4573,
+    "segmentB": 3960,
+    "segmentC": 2318,
+    "segmentD": 1883,
+    "date": "Sunday, October 7, 2018 9:40 AM"
+  },
+  {
+    "_id": "5f23237aaec22af0f2cce26c",
+    "segmentA": 4564,
+    "segmentB": 3321,
+    "segmentC": 2067,
+    "segmentD": 1649,
+    "date": "Thursday, February 20, 2020 6:41 PM"
+  },
+  {
+    "_id": "5f23237adadad5ae37c71246",
+    "segmentA": 4968,
+    "segmentB": 3151,
+    "segmentC": 2918,
+    "segmentD": 1429,
+    "date": "Sunday, August 19, 2018 12:34 PM"
+  },
+  {
+    "_id": "5f23237a793519430cdc319e",
+    "segmentA": 4399,
+    "segmentB": 3669,
+    "segmentC": 2994,
+    "segmentD": 1479,
+    "date": "Sunday, August 12, 2018 12:50 AM"
+  },
+  {
+    "_id": "5f23237aa7a1a94da809ea83",
+    "segmentA": 4668,
+    "segmentB": 3965,
+    "segmentC": 2670,
+    "segmentD": 1836,
+    "date": "Friday, February 23, 2018 8:32 AM"
+  },
+  {
+    "_id": "5f23237a7d5700d1a19e5ad2",
+    "segmentA": 4690,
+    "segmentB": 3370,
+    "segmentC": 2407,
+    "segmentD": 1329,
+    "date": "Saturday, April 25, 2020 11:54 AM"
+  },
+  {
+    "_id": "5f23237ab6bcee51a9235848",
+    "segmentA": 4803,
+    "segmentB": 3642,
+    "segmentC": 2985,
+    "segmentD": 1819,
+    "date": "Tuesday, December 3, 2019 8:27 AM"
+  },
+  {
+    "_id": "5f23237ab24a1df866733915",
+    "segmentA": 4498,
+    "segmentB": 3210,
+    "segmentC": 2887,
+    "segmentD": 1366,
+    "date": "Sunday, January 21, 2018 12:01 AM"
+  },
+  {
+    "_id": "5f23237adbd71b5e23928865",
+    "segmentA": 4884,
+    "segmentB": 3539,
+    "segmentC": 2776,
+    "segmentD": 1751,
+    "date": "Wednesday, June 24, 2020 12:19 PM"
+  },
+  {
+    "_id": "5f23237ac7a759c1cbc6d43f",
+    "segmentA": 4479,
+    "segmentB": 3083,
+    "segmentC": 2770,
+    "segmentD": 1679,
+    "date": "Tuesday, September 10, 2019 1:59 AM"
+  },
+  {
+    "_id": "5f23237a6a11fab27d6cd852",
+    "segmentA": 4088,
+    "segmentB": 3457,
+    "segmentC": 2430,
+    "segmentD": 1593,
+    "date": "Wednesday, May 15, 2019 7:29 PM"
+  },
+  {
+    "_id": "5f23237a5cef552aceb5a490",
+    "segmentA": 4513,
+    "segmentB": 3745,
+    "segmentC": 2959,
+    "segmentD": 1585,
+    "date": "Thursday, October 31, 2019 1:29 PM"
+  },
+  {
+    "_id": "5f23237a3ba57b64c39b4916",
+    "segmentA": 4484,
+    "segmentB": 3145,
+    "segmentC": 2763,
+    "segmentD": 1257,
+    "date": "Tuesday, May 12, 2020 9:43 AM"
+  },
+  {
+    "_id": "5f23237adb8630ccc952795b",
+    "segmentA": 4605,
+    "segmentB": 3766,
+    "segmentC": 2646,
+    "segmentD": 1578,
+    "date": "Friday, February 16, 2018 2:25 PM"
+  },
+  {
+    "_id": "5f23237ae35e3a8578580ab3",
+    "segmentA": 4121,
+    "segmentB": 3170,
+    "segmentC": 2394,
+    "segmentD": 1724,
+    "date": "Wednesday, April 1, 2020 4:29 PM"
+  },
+  {
+    "_id": "5f23237a3b9fe4446e464013",
+    "segmentA": 4941,
+    "segmentB": 3226,
+    "segmentC": 2372,
+    "segmentD": 1799,
+    "date": "Thursday, January 11, 2018 9:53 AM"
+  },
+  {
+    "_id": "5f23237aadfb913ba4068965",
+    "segmentA": 4639,
+    "segmentB": 3996,
+    "segmentC": 2331,
+    "segmentD": 1323,
+    "date": "Friday, April 5, 2019 6:33 PM"
+  },
+  {
+    "_id": "5f23237aef1c8c4378a78c9a",
+    "segmentA": 4414,
+    "segmentB": 3989,
+    "segmentC": 2315,
+    "segmentD": 1252,
+    "date": "Monday, June 25, 2018 10:53 AM"
+  },
+  {
+    "_id": "5f23237ac3f4431779bb38ee",
+    "segmentA": 4523,
+    "segmentB": 3528,
+    "segmentC": 2686,
+    "segmentD": 1247,
+    "date": "Wednesday, September 19, 2018 8:14 AM"
+  },
+  {
+    "_id": "5f23237af0398368a4d6fdd9",
+    "segmentA": 4855,
+    "segmentB": 3679,
+    "segmentC": 2742,
+    "segmentD": 1015,
+    "date": "Thursday, January 30, 2020 3:16 AM"
+  },
+  {
+    "_id": "5f23237a5c54bc28364135a8",
+    "segmentA": 4143,
+    "segmentB": 3201,
+    "segmentC": 2607,
+    "segmentD": 1840,
+    "date": "Saturday, August 10, 2019 5:38 PM"
+  },
+  {
+    "_id": "5f23237aaea71660c5f2804d",
+    "segmentA": 4552,
+    "segmentB": 3274,
+    "segmentC": 2247,
+    "segmentD": 1084,
+    "date": "Monday, January 7, 2019 5:59 AM"
+  },
+  {
+    "_id": "5f23237ac5c6b415ba9acfc7",
+    "segmentA": 4026,
+    "segmentB": 3618,
+    "segmentC": 2767,
+    "segmentD": 1635,
+    "date": "Friday, May 29, 2020 6:57 AM"
+  },
+  {
+    "_id": "5f23237ad73fa360216942b6",
+    "segmentA": 4209,
+    "segmentB": 3664,
+    "segmentC": 2718,
+    "segmentD": 1679,
+    "date": "Thursday, May 16, 2019 12:06 AM"
+  },
+  {
+    "_id": "5f23237a41cc915527da65e4",
+    "segmentA": 4300,
+    "segmentB": 3119,
+    "segmentC": 2572,
+    "segmentD": 1667,
+    "date": "Monday, June 8, 2020 3:29 AM"
+  },
+  {
+    "_id": "5f23237a4aa8e26e67bf6f0f",
+    "segmentA": 4660,
+    "segmentB": 3899,
+    "segmentC": 2173,
+    "segmentD": 1780,
+    "date": "Thursday, May 17, 2018 1:17 AM"
+  },
+  {
+    "_id": "5f23237a2a6dbda15e3b2c95",
+    "segmentA": 4632,
+    "segmentB": 3653,
+    "segmentC": 2077,
+    "segmentD": 1401,
+    "date": "Friday, July 13, 2018 2:19 PM"
+  },
+  {
+    "_id": "5f23237a70230ecedbe3701d",
+    "segmentA": 4838,
+    "segmentB": 3187,
+    "segmentC": 2315,
+    "segmentD": 1651,
+    "date": "Tuesday, March 19, 2019 9:24 PM"
+  },
+  {
+    "_id": "5f23237ae0f8cf64c2bef040",
+    "segmentA": 4741,
+    "segmentB": 3733,
+    "segmentC": 2389,
+    "segmentD": 1031,
+    "date": "Thursday, December 26, 2019 6:05 AM"
+  },
+  {
+    "_id": "5f23237a7f0e714bdc796991",
+    "segmentA": 4647,
+    "segmentB": 3038,
+    "segmentC": 2776,
+    "segmentD": 1389,
+    "date": "Wednesday, March 13, 2019 11:43 AM"
+  },
+  {
+    "_id": "5f23237acf75d3f62a789f4a",
+    "segmentA": 4827,
+    "segmentB": 3880,
+    "segmentC": 2650,
+    "segmentD": 1927,
+    "date": "Monday, March 5, 2018 12:27 PM"
+  },
+  {
+    "_id": "5f23237ae373cc32fd5f2390",
+    "segmentA": 4352,
+    "segmentB": 3649,
+    "segmentC": 2300,
+    "segmentD": 1337,
+    "date": "Saturday, September 7, 2019 6:14 PM"
+  },
+  {
+    "_id": "5f23237ad92fd5a84abac099",
+    "segmentA": 4056,
+    "segmentB": 3754,
+    "segmentC": 2396,
+    "segmentD": 1079,
+    "date": "Tuesday, April 9, 2019 3:56 PM"
+  },
+  {
+    "_id": "5f23237a74765a1e7da44072",
+    "segmentA": 4269,
+    "segmentB": 3805,
+    "segmentC": 2051,
+    "segmentD": 1923,
+    "date": "Wednesday, September 26, 2018 2:06 PM"
+  },
+  {
+    "_id": "5f23237abed9307c55a470ba",
+    "segmentA": 4969,
+    "segmentB": 3390,
+    "segmentC": 2469,
+    "segmentD": 1186,
+    "date": "Saturday, March 30, 2019 2:06 AM"
+  },
+  {
+    "_id": "5f23237a93a133769db1ed52",
+    "segmentA": 4920,
+    "segmentB": 3030,
+    "segmentC": 2583,
+    "segmentD": 1264,
+    "date": "Thursday, March 29, 2018 7:30 PM"
+  },
+  {
+    "_id": "5f23237a4918e3d96524d8b1",
+    "segmentA": 4488,
+    "segmentB": 3399,
+    "segmentC": 2302,
+    "segmentD": 1199,
+    "date": "Wednesday, February 19, 2020 12:46 PM"
+  },
+  {
+    "_id": "5f23237af73ee7d3bf1ba4d2",
+    "segmentA": 4120,
+    "segmentB": 3684,
+    "segmentC": 2900,
+    "segmentD": 1133,
+    "date": "Sunday, October 27, 2019 8:21 PM"
+  },
+  {
+    "_id": "5f23237adc697ce5c7dbf5d8",
+    "segmentA": 4486,
+    "segmentB": 3938,
+    "segmentC": 2938,
+    "segmentD": 1639,
+    "date": "Sunday, June 10, 2018 4:44 PM"
+  },
+  {
+    "_id": "5f23237a274f4e43ea413053",
+    "segmentA": 4744,
+    "segmentB": 3399,
+    "segmentC": 2804,
+    "segmentD": 1951,
+    "date": "Friday, October 25, 2019 3:00 AM"
+  },
+  {
+    "_id": "5f23237a7d356be9365d3467",
+    "segmentA": 4511,
+    "segmentB": 3488,
+    "segmentC": 2021,
+    "segmentD": 1441,
+    "date": "Sunday, April 19, 2020 1:56 PM"
+  },
+  {
+    "_id": "5f23237a179382f3fe27100b",
+    "segmentA": 4979,
+    "segmentB": 3830,
+    "segmentC": 2992,
+    "segmentD": 1871,
+    "date": "Wednesday, May 6, 2020 9:53 AM"
+  },
+  {
+    "_id": "5f23237a8151ce2a2e027fa2",
+    "segmentA": 4651,
+    "segmentB": 3988,
+    "segmentC": 2633,
+    "segmentD": 1814,
+    "date": "Saturday, November 16, 2019 2:28 AM"
+  },
+  {
+    "_id": "5f23237a62686edfc31c62d0",
+    "segmentA": 4145,
+    "segmentB": 3582,
+    "segmentC": 2955,
+    "segmentD": 1690,
+    "date": "Friday, February 2, 2018 2:18 PM"
+  },
+  {
+    "_id": "5f23237a95a83a4110d6e6d1",
+    "segmentA": 4799,
+    "segmentB": 3619,
+    "segmentC": 2801,
+    "segmentD": 1210,
+    "date": "Sunday, March 22, 2020 8:10 PM"
+  },
+  {
+    "_id": "5f23237a67fab47c118229b9",
+    "segmentA": 4841,
+    "segmentB": 3362,
+    "segmentC": 2176,
+    "segmentD": 1598,
+    "date": "Wednesday, February 5, 2020 1:18 PM"
+  },
+  {
+    "_id": "5f23237a2d2175db7d1181cf",
+    "segmentA": 4800,
+    "segmentB": 3361,
+    "segmentC": 2616,
+    "segmentD": 1795,
+    "date": "Friday, June 7, 2019 2:46 AM"
+  },
+  {
+    "_id": "5f23237aa4995ee65ff280ab",
+    "segmentA": 4097,
+    "segmentB": 3055,
+    "segmentC": 2581,
+    "segmentD": 1393,
+    "date": "Friday, May 1, 2020 12:55 PM"
+  },
+  {
+    "_id": "5f23237a70445550d6ef6d5f",
+    "segmentA": 4239,
+    "segmentB": 3295,
+    "segmentC": 2052,
+    "segmentD": 1875,
+    "date": "Friday, April 24, 2020 1:23 PM"
+  },
+  {
+    "_id": "5f23237a2c3f0df9ad8ba55f",
+    "segmentA": 4464,
+    "segmentB": 3437,
+    "segmentC": 2683,
+    "segmentD": 1484,
+    "date": "Saturday, June 29, 2019 5:14 PM"
+  },
+  {
+    "_id": "5f23237ab42ff3ae9dfeb92b",
+    "segmentA": 4802,
+    "segmentB": 3182,
+    "segmentC": 2038,
+    "segmentD": 1867,
+    "date": "Friday, September 27, 2019 11:38 AM"
+  },
+  {
+    "_id": "5f23237a3dd91db79e2af624",
+    "segmentA": 4736,
+    "segmentB": 3197,
+    "segmentC": 2273,
+    "segmentD": 1865,
+    "date": "Sunday, July 28, 2019 7:34 PM"
+  },
+  {
+    "_id": "5f23237af50275cfb63f62d1",
+    "segmentA": 4772,
+    "segmentB": 3839,
+    "segmentC": 2488,
+    "segmentD": 1261,
+    "date": "Saturday, August 17, 2019 5:29 AM"
+  },
+  {
+    "_id": "5f23237ab037a61e7bda6192",
+    "segmentA": 4155,
+    "segmentB": 3836,
+    "segmentC": 2124,
+    "segmentD": 1398,
+    "date": "Tuesday, July 10, 2018 1:24 PM"
+  },
+  {
+    "_id": "5f23237a4d07bde9bb97e9f7",
+    "segmentA": 4903,
+    "segmentB": 3819,
+    "segmentC": 2444,
+    "segmentD": 1625,
+    "date": "Saturday, April 11, 2020 6:16 AM"
+  },
+  {
+    "_id": "5f23237a29fdbbd52b3240ac",
+    "segmentA": 4419,
+    "segmentB": 3222,
+    "segmentC": 2155,
+    "segmentD": 1765,
+    "date": "Monday, March 9, 2020 2:52 AM"
+  },
+  {
+    "_id": "5f23237ae8f1601a22c2452f",
+    "segmentA": 4472,
+    "segmentB": 3468,
+    "segmentC": 2558,
+    "segmentD": 1945,
+    "date": "Wednesday, February 28, 2018 5:05 AM"
+  },
+  {
+    "_id": "5f23237a9ace523876d5a9d0",
+    "segmentA": 4084,
+    "segmentB": 3360,
+    "segmentC": 2683,
+    "segmentD": 1109,
+    "date": "Saturday, February 2, 2019 3:23 AM"
+  },
+  {
+    "_id": "5f23237a0576e0c14412f8e9",
+    "segmentA": 4881,
+    "segmentB": 3142,
+    "segmentC": 2103,
+    "segmentD": 1696,
+    "date": "Wednesday, April 22, 2020 5:18 AM"
+  },
+  {
+    "_id": "5f23237a0ce73e2cbdca2f75",
+    "segmentA": 4877,
+    "segmentB": 3442,
+    "segmentC": 2283,
+    "segmentD": 1823,
+    "date": "Thursday, February 14, 2019 8:51 AM"
+  },
+  {
+    "_id": "5f23237a3e01096d28f3a491",
+    "segmentA": 4534,
+    "segmentB": 3810,
+    "segmentC": 2866,
+    "segmentD": 1895,
+    "date": "Wednesday, May 22, 2019 3:46 PM"
+  },
+  {
+    "_id": "5f23237a62b93f0dfbee9d06",
+    "segmentA": 4460,
+    "segmentB": 3847,
+    "segmentC": 2861,
+    "segmentD": 1618,
+    "date": "Monday, March 30, 2020 3:44 PM"
+  },
+  {
+    "_id": "5f23237a6836a717dd708e4f",
+    "segmentA": 4157,
+    "segmentB": 3918,
+    "segmentC": 2702,
+    "segmentD": 1689,
+    "date": "Wednesday, April 10, 2019 7:47 AM"
+  },
+  {
+    "_id": "5f23237a7f099e5518a234d9",
+    "segmentA": 4271,
+    "segmentB": 3243,
+    "segmentC": 2573,
+    "segmentD": 1451,
+    "date": "Wednesday, April 11, 2018 3:26 AM"
+  },
+  {
+    "_id": "5f23237affc4fc775a5764b2",
+    "segmentA": 4048,
+    "segmentB": 3366,
+    "segmentC": 2282,
+    "segmentD": 1436,
+    "date": "Monday, December 9, 2019 4:55 AM"
+  },
+  {
+    "_id": "5f23266f8b488c129878a6f5",
+    "segmentA": 4676,
+    "segmentB": 2886,
+    "segmentC": 2525,
+    "segmentD": 1805,
+    "date": "Saturday, April 14, 2018 1:04 PM"
+  },
+  {
+    "_id": "5f23266fa875e944e8818eae",
+    "segmentA": 4823,
+    "segmentB": 3234,
+    "segmentC": 1349,
+    "segmentD": 760,
+    "date": "Friday, November 16, 2018 8:53 PM"
+  },
+  {
+    "_id": "5f23266fd6b5c8e34ea4a8b9",
+    "segmentA": 4449,
+    "segmentB": 2143,
+    "segmentC": 2669,
+    "segmentD": 297,
+    "date": "Wednesday, July 24, 2019 7:09 PM"
+  },
+  {
+    "_id": "5f23266fb2a756ac34f733ea",
+    "segmentA": 3139,
+    "segmentB": 3690,
+    "segmentC": 2550,
+    "segmentD": 999,
+    "date": "Monday, June 3, 2019 6:12 PM"
+  },
+  {
+    "_id": "5f23266f89c284c1098e3751",
+    "segmentA": 3775,
+    "segmentB": 2713,
+    "segmentC": 1115,
+    "segmentD": 1178,
+    "date": "Sunday, September 16, 2018 12:51 PM"
+  },
+  {
+    "_id": "5f23266f5061aa48c667197a",
+    "segmentA": 4190,
+    "segmentB": 3297,
+    "segmentC": 1664,
+    "segmentD": 766,
+    "date": "Friday, August 3, 2018 10:55 PM"
+  },
+  {
+    "_id": "5f23266f204feaeb2ed80583",
+    "segmentA": 4192,
+    "segmentB": 3555,
+    "segmentC": 2217,
+    "segmentD": 1517,
+    "date": "Thursday, December 20, 2018 2:50 PM"
+  },
+  {
+    "_id": "5f23266f3e49f05631c620be",
+    "segmentA": 5000,
+    "segmentB": 2649,
+    "segmentC": 2857,
+    "segmentD": 1658,
+    "date": "Tuesday, March 17, 2020 8:50 AM"
+  },
+  {
+    "_id": "5f23266ffe7a077ed3e2381a",
+    "segmentA": 3318,
+    "segmentB": 3272,
+    "segmentC": 2403,
+    "segmentD": 410,
+    "date": "Tuesday, October 23, 2018 5:47 AM"
+  },
+  {
+    "_id": "5f23266f98c9113b520c7395",
+    "segmentA": 3587,
+    "segmentB": 2377,
+    "segmentC": 2985,
+    "segmentD": 1573,
+    "date": "Saturday, August 4, 2018 5:39 AM"
+  },
+  {
+    "_id": "5f23266f51a17744945307c0",
+    "segmentA": 4917,
+    "segmentB": 3113,
+    "segmentC": 1305,
+    "segmentD": 1104,
+    "date": "Tuesday, June 16, 2020 3:05 PM"
+  },
+  {
+    "_id": "5f23266f2705ed3b1348f4a6",
+    "segmentA": 3093,
+    "segmentB": 2725,
+    "segmentC": 1238,
+    "segmentD": 1700,
+    "date": "Friday, May 25, 2018 7:26 AM"
+  },
+  {
+    "_id": "5f23266f3a172fa3d5c457fd",
+    "segmentA": 3577,
+    "segmentB": 3646,
+    "segmentC": 1807,
+    "segmentD": 1369,
+    "date": "Thursday, May 16, 2019 12:34 AM"
+  },
+  {
+    "_id": "5f23266f0bd8690a2796dd20",
+    "segmentA": 3650,
+    "segmentB": 3682,
+    "segmentC": 1904,
+    "segmentD": 1845,
+    "date": "Thursday, June 25, 2020 11:49 AM"
+  },
+  {
+    "_id": "5f23266fd17fb8e5e0c068c9",
+    "segmentA": 3158,
+    "segmentB": 3783,
+    "segmentC": 2777,
+    "segmentD": 1357,
+    "date": "Friday, June 21, 2019 3:29 PM"
+  },
+  {
+    "_id": "5f23266fc423b39812ef6525",
+    "segmentA": 3877,
+    "segmentB": 2300,
+    "segmentC": 1781,
+    "segmentD": 856,
+    "date": "Thursday, February 7, 2019 10:22 PM"
+  },
+  {
+    "_id": "5f23266fe9b07815a0d23966",
+    "segmentA": 3190,
+    "segmentB": 2486,
+    "segmentC": 1476,
+    "segmentD": 1089,
+    "date": "Sunday, March 31, 2019 7:45 AM"
+  },
+  {
+    "_id": "5f23266f8229689926b61438",
+    "segmentA": 4212,
+    "segmentB": 2073,
+    "segmentC": 1072,
+    "segmentD": 1130,
+    "date": "Saturday, August 4, 2018 10:54 AM"
+  },
+  {
+    "_id": "5f23266f62aabbe305549446",
+    "segmentA": 3731,
+    "segmentB": 3391,
+    "segmentC": 1955,
+    "segmentD": 17,
+    "date": "Friday, July 20, 2018 12:19 AM"
+  },
+  {
+    "_id": "5f23266f5559feba2ac7d101",
+    "segmentA": 4601,
+    "segmentB": 3620,
+    "segmentC": 2495,
+    "segmentD": 1975,
+    "date": "Monday, December 31, 2018 8:58 AM"
+  },
+  {
+    "_id": "5f23266f95d5502a1fd45d87",
+    "segmentA": 4592,
+    "segmentB": 2315,
+    "segmentC": 1558,
+    "segmentD": 1202,
+    "date": "Tuesday, October 29, 2019 2:33 PM"
+  },
+  {
+    "_id": "5f23266f5a625020b4bf0560",
+    "segmentA": 4418,
+    "segmentB": 3514,
+    "segmentC": 2028,
+    "segmentD": 1180,
+    "date": "Wednesday, September 25, 2019 11:55 PM"
+  },
+  {
+    "_id": "5f23266f97c5aea954823ccb",
+    "segmentA": 4359,
+    "segmentB": 2964,
+    "segmentC": 2064,
+    "segmentD": 1993,
+    "date": "Friday, July 3, 2020 7:27 AM"
+  },
+  {
+    "_id": "5f23266f375c987763a65082",
+    "segmentA": 3672,
+    "segmentB": 2023,
+    "segmentC": 2189,
+    "segmentD": 1842,
+    "date": "Saturday, April 25, 2020 5:38 PM"
+  },
+  {
+    "_id": "5f23266fdf7da5aff5aa116b",
+    "segmentA": 3633,
+    "segmentB": 3919,
+    "segmentC": 2467,
+    "segmentD": 888,
+    "date": "Monday, February 18, 2019 1:33 PM"
+  },
+  {
+    "_id": "5f23266fa3b00d7fa6e9bddd",
+    "segmentA": 4703,
+    "segmentB": 2356,
+    "segmentC": 2810,
+    "segmentD": 614,
+    "date": "Saturday, March 28, 2020 3:28 AM"
+  },
+  {
+    "_id": "5f23266ffb1eedbe2e066bd1",
+    "segmentA": 4165,
+    "segmentB": 3077,
+    "segmentC": 2262,
+    "segmentD": 28,
+    "date": "Wednesday, July 17, 2019 3:47 AM"
+  },
+  {
+    "_id": "5f23266f9b4252ea3780c3da",
+    "segmentA": 3601,
+    "segmentB": 2020,
+    "segmentC": 2392,
+    "segmentD": 1210,
+    "date": "Sunday, July 5, 2020 11:21 AM"
+  },
+  {
+    "_id": "5f23266f4fa57b408de96329",
+    "segmentA": 4395,
+    "segmentB": 2179,
+    "segmentC": 2489,
+    "segmentD": 819,
+    "date": "Monday, January 1, 2018 7:25 PM"
+  },
+  {
+    "_id": "5f23266f9e956fdbdba2c957",
+    "segmentA": 4308,
+    "segmentB": 3013,
+    "segmentC": 2228,
+    "segmentD": 1962,
+    "date": "Sunday, May 24, 2020 12:50 PM"
+  },
+  {
+    "_id": "5f23266f94135b19a8e1bb81",
+    "segmentA": 3645,
+    "segmentB": 3078,
+    "segmentC": 2310,
+    "segmentD": 1289,
+    "date": "Monday, June 17, 2019 8:09 AM"
+  },
+  {
+    "_id": "5f23266fbd8bb2edc655cbc1",
+    "segmentA": 4060,
+    "segmentB": 2034,
+    "segmentC": 2275,
+    "segmentD": 1578,
+    "date": "Monday, March 30, 2020 10:02 PM"
+  },
+  {
+    "_id": "5f23266f90087a54f3d78cdd",
+    "segmentA": 4435,
+    "segmentB": 3272,
+    "segmentC": 1316,
+    "segmentD": 1642,
+    "date": "Friday, January 17, 2020 10:24 AM"
+  },
+  {
+    "_id": "5f23266f8540942d264a7715",
+    "segmentA": 3685,
+    "segmentB": 2236,
+    "segmentC": 1813,
+    "segmentD": 851,
+    "date": "Wednesday, July 29, 2020 6:30 AM"
+  },
+  {
+    "_id": "5f23266f01df218ec575d8a4",
+    "segmentA": 3091,
+    "segmentB": 2672,
+    "segmentC": 2547,
+    "segmentD": 1460,
+    "date": "Wednesday, October 9, 2019 12:30 PM"
+  },
+  {
+    "_id": "5f23266fe9bb943b20f3aea6",
+    "segmentA": 4146,
+    "segmentB": 3850,
+    "segmentC": 1705,
+    "segmentD": 1461,
+    "date": "Sunday, December 22, 2019 2:11 PM"
+  },
+  {
+    "_id": "5f23266f661837ceff6e090e",
+    "segmentA": 4437,
+    "segmentB": 3675,
+    "segmentC": 2253,
+    "segmentD": 304,
+    "date": "Saturday, March 2, 2019 9:20 PM"
+  },
+  {
+    "_id": "5f23266fadeceb4519efac9d",
+    "segmentA": 3834,
+    "segmentB": 3897,
+    "segmentC": 2005,
+    "segmentD": 1925,
+    "date": "Saturday, December 14, 2019 12:22 AM"
+  },
+  {
+    "_id": "5f23266fd2a5f491f27cdf00",
+    "segmentA": 4924,
+    "segmentB": 3546,
+    "segmentC": 2747,
+    "segmentD": 918,
+    "date": "Thursday, December 6, 2018 8:21 AM"
+  },
+  {
+    "_id": "5f23266f11293a2a7ce9efb7",
+    "segmentA": 3689,
+    "segmentB": 2143,
+    "segmentC": 2597,
+    "segmentD": 15,
+    "date": "Sunday, June 23, 2019 6:14 AM"
+  },
+  {
+    "_id": "5f23266f9cfbfd1cd9868550",
+    "segmentA": 3082,
+    "segmentB": 2915,
+    "segmentC": 2234,
+    "segmentD": 1504,
+    "date": "Thursday, February 28, 2019 11:48 AM"
+  },
+  {
+    "_id": "5f23266f6e1c53b16807ee9c",
+    "segmentA": 3776,
+    "segmentB": 2291,
+    "segmentC": 2169,
+    "segmentD": 587,
+    "date": "Wednesday, October 30, 2019 3:17 PM"
+  },
+  {
+    "_id": "5f23266fb6130f18d9e51575",
+    "segmentA": 4485,
+    "segmentB": 2028,
+    "segmentC": 2009,
+    "segmentD": 725,
+    "date": "Wednesday, February 7, 2018 5:49 PM"
+  },
+  {
+    "_id": "5f23266f011bcc387dca1dbd",
+    "segmentA": 4011,
+    "segmentB": 3000,
+    "segmentC": 2572,
+    "segmentD": 1888,
+    "date": "Wednesday, November 20, 2019 4:32 PM"
+  },
+  {
+    "_id": "5f23266f6ea886d37b61a6a4",
+    "segmentA": 3762,
+    "segmentB": 2323,
+    "segmentC": 2988,
+    "segmentD": 1272,
+    "date": "Tuesday, March 6, 2018 2:40 PM"
+  },
+  {
+    "_id": "5f23266f921ef8c5fe2573be",
+    "segmentA": 3740,
+    "segmentB": 2340,
+    "segmentC": 2911,
+    "segmentD": 648,
+    "date": "Thursday, April 16, 2020 1:44 PM"
+  },
+  {
+    "_id": "5f23266ff5db3e13927c7cfb",
+    "segmentA": 4708,
+    "segmentB": 2553,
+    "segmentC": 1934,
+    "segmentD": 884,
+    "date": "Thursday, March 28, 2019 11:15 AM"
+  },
+  {
+    "_id": "5f23266f497d16c8f0cd916d",
+    "segmentA": 3679,
+    "segmentB": 2724,
+    "segmentC": 2326,
+    "segmentD": 977,
+    "date": "Thursday, July 18, 2019 10:08 AM"
+  },
+  {
+    "_id": "5f23266f937f4ad0e83d5511",
+    "segmentA": 3888,
+    "segmentB": 2121,
+    "segmentC": 2964,
+    "segmentD": 1708,
+    "date": "Wednesday, April 22, 2020 9:28 AM"
+  },
+  {
+    "_id": "5f23266ffe26349e332dbe7a",
+    "segmentA": 4552,
+    "segmentB": 2208,
+    "segmentC": 2685,
+    "segmentD": 454,
+    "date": "Wednesday, November 28, 2018 6:29 PM"
+  },
+  {
+    "_id": "5f23266f5ee3b082a897569d",
+    "segmentA": 3824,
+    "segmentB": 2167,
+    "segmentC": 1445,
+    "segmentD": 1416,
+    "date": "Sunday, May 12, 2019 5:09 PM"
+  },
+  {
+    "_id": "5f23266fcf6c063cd3f9b4bd",
+    "segmentA": 4038,
+    "segmentB": 2632,
+    "segmentC": 2266,
+    "segmentD": 1370,
+    "date": "Monday, January 7, 2019 12:41 AM"
+  },
+  {
+    "_id": "5f23266ffe08097caefb78c7",
+    "segmentA": 4933,
+    "segmentB": 2985,
+    "segmentC": 1339,
+    "segmentD": 859,
+    "date": "Sunday, June 23, 2019 12:54 AM"
+  },
+  {
+    "_id": "5f23266f964054f9626c3f0e",
+    "segmentA": 3584,
+    "segmentB": 2062,
+    "segmentC": 1061,
+    "segmentD": 755,
+    "date": "Wednesday, March 6, 2019 4:08 PM"
+  },
+  {
+    "_id": "5f23266fbfe12a008c182ea6",
+    "segmentA": 4439,
+    "segmentB": 3425,
+    "segmentC": 1295,
+    "segmentD": 403,
+    "date": "Thursday, November 1, 2018 5:49 PM"
+  },
+  {
+    "_id": "5f23266ffb928c6d00e05d39",
+    "segmentA": 4465,
+    "segmentB": 3532,
+    "segmentC": 2020,
+    "segmentD": 836,
+    "date": "Monday, September 10, 2018 6:19 PM"
+  },
+  {
+    "_id": "5f23266f500ff6c77fce4e6a",
+    "segmentA": 3698,
+    "segmentB": 3146,
+    "segmentC": 1446,
+    "segmentD": 1911,
+    "date": "Friday, January 24, 2020 7:40 AM"
+  },
+  {
+    "_id": "5f23266ff5d5e0169062dec9",
+    "segmentA": 3400,
+    "segmentB": 2694,
+    "segmentC": 1016,
+    "segmentD": 155,
+    "date": "Sunday, August 12, 2018 6:32 PM"
+  },
+  {
+    "_id": "5f23266f7935e5824b3a6bf5",
+    "segmentA": 3572,
+    "segmentB": 2984,
+    "segmentC": 2642,
+    "segmentD": 413,
+    "date": "Monday, June 25, 2018 1:22 AM"
+  },
+  {
+    "_id": "5f23266fd470892c463bdc80",
+    "segmentA": 3000,
+    "segmentB": 2727,
+    "segmentC": 2256,
+    "segmentD": 1210,
+    "date": "Sunday, February 9, 2020 12:58 PM"
+  },
+  {
+    "_id": "5f23266f31a769fcde49fd19",
+    "segmentA": 4328,
+    "segmentB": 2639,
+    "segmentC": 2512,
+    "segmentD": 804,
+    "date": "Monday, March 4, 2019 8:44 AM"
+  },
+  {
+    "_id": "5f23266f2a0af56ad4ae2725",
+    "segmentA": 3387,
+    "segmentB": 3852,
+    "segmentC": 1749,
+    "segmentD": 1364,
+    "date": "Saturday, April 27, 2019 10:40 AM"
+  },
+  {
+    "_id": "5f23266ff278f4d9c7cb7b11",
+    "segmentA": 4355,
+    "segmentB": 2271,
+    "segmentC": 2087,
+    "segmentD": 18,
+    "date": "Saturday, June 13, 2020 11:38 AM"
+  },
+  {
+    "_id": "5f23266f30a98c3cea9cbad9",
+    "segmentA": 3614,
+    "segmentB": 3703,
+    "segmentC": 2959,
+    "segmentD": 739,
+    "date": "Friday, January 4, 2019 3:29 AM"
+  },
+  {
+    "_id": "5f23266ff8268a1baab71c44",
+    "segmentA": 4239,
+    "segmentB": 2250,
+    "segmentC": 1881,
+    "segmentD": 429,
+    "date": "Wednesday, December 5, 2018 6:17 PM"
+  },
+  {
+    "_id": "5f23266f24bb51441e6411f3",
+    "segmentA": 3679,
+    "segmentB": 2182,
+    "segmentC": 2074,
+    "segmentD": 1041,
+    "date": "Friday, October 4, 2019 10:07 PM"
+  },
+  {
+    "_id": "5f23266f3d4a6b1d88e9ffe3",
+    "segmentA": 3309,
+    "segmentB": 3815,
+    "segmentC": 1536,
+    "segmentD": 367,
+    "date": "Wednesday, April 3, 2019 5:35 PM"
+  },
+  {
+    "_id": "5f23266f8231a53977c104a1",
+    "segmentA": 4263,
+    "segmentB": 3651,
+    "segmentC": 1070,
+    "segmentD": 1757,
+    "date": "Tuesday, October 9, 2018 4:11 AM"
+  },
+  {
+    "_id": "5f23266fdecb8294a7374ba9",
+    "segmentA": 4539,
+    "segmentB": 2913,
+    "segmentC": 2386,
+    "segmentD": 728,
+    "date": "Monday, November 26, 2018 8:22 AM"
+  },
+  {
+    "_id": "5f23266f5cdd2cc232cccb4e",
+    "segmentA": 4831,
+    "segmentB": 2776,
+    "segmentC": 1333,
+    "segmentD": 1470,
+    "date": "Wednesday, June 5, 2019 8:57 AM"
+  },
+  {
+    "_id": "5f23266fb027feef39829527",
+    "segmentA": 4056,
+    "segmentB": 2366,
+    "segmentC": 2344,
+    "segmentD": 555,
+    "date": "Friday, March 1, 2019 10:15 PM"
+  },
+  {
+    "_id": "5f23266ffc78af22eff61361",
+    "segmentA": 4630,
+    "segmentB": 3112,
+    "segmentC": 1957,
+    "segmentD": 763,
+    "date": "Thursday, March 15, 2018 6:56 PM"
+  },
+  {
+    "_id": "5f23266fafd464885012713d",
+    "segmentA": 4667,
+    "segmentB": 3389,
+    "segmentC": 2183,
+    "segmentD": 1813,
+    "date": "Sunday, May 27, 2018 7:43 PM"
+  },
+  {
+    "_id": "5f23266f10a46dd71aeae340",
+    "segmentA": 4770,
+    "segmentB": 2132,
+    "segmentC": 2254,
+    "segmentD": 1985,
+    "date": "Sunday, October 7, 2018 7:23 AM"
+  },
+  {
+    "_id": "5f23266fceb38c32cba419ef",
+    "segmentA": 3294,
+    "segmentB": 3430,
+    "segmentC": 1645,
+    "segmentD": 953,
+    "date": "Saturday, June 1, 2019 6:53 PM"
+  },
+  {
+    "_id": "5f23266fedbea91c02b8b045",
+    "segmentA": 3114,
+    "segmentB": 2953,
+    "segmentC": 1038,
+    "segmentD": 3,
+    "date": "Monday, June 17, 2019 4:59 PM"
+  },
+  {
+    "_id": "5f23266f59ed0146a5310336",
+    "segmentA": 3776,
+    "segmentB": 2953,
+    "segmentC": 1999,
+    "segmentD": 971,
+    "date": "Wednesday, March 7, 2018 3:00 AM"
+  },
+  {
+    "_id": "5f23266f98f8042abec088b2",
+    "segmentA": 3584,
+    "segmentB": 3141,
+    "segmentC": 1105,
+    "segmentD": 596,
+    "date": "Saturday, August 4, 2018 5:20 AM"
+  },
+  {
+    "_id": "5f23266fcb032baac0cf4192",
+    "segmentA": 3581,
+    "segmentB": 2460,
+    "segmentC": 2317,
+    "segmentD": 300,
+    "date": "Wednesday, April 1, 2020 9:30 AM"
+  },
+  {
+    "_id": "5f23266f016c2daae11e0dad",
+    "segmentA": 3452,
+    "segmentB": 2243,
+    "segmentC": 1733,
+    "segmentD": 1386,
+    "date": "Saturday, February 15, 2020 10:44 PM"
+  },
+  {
+    "_id": "5f23266f7689b2065f2880a1",
+    "segmentA": 3861,
+    "segmentB": 3366,
+    "segmentC": 2863,
+    "segmentD": 512,
+    "date": "Thursday, May 2, 2019 2:55 PM"
+  },
+  {
+    "_id": "5f23266f2b9e2a1ee35eb6ae",
+    "segmentA": 4862,
+    "segmentB": 3732,
+    "segmentC": 1280,
+    "segmentD": 1997,
+    "date": "Sunday, August 12, 2018 3:49 AM"
+  },
+  {
+    "_id": "5f23266f8172f2e4ebd76349",
+    "segmentA": 3262,
+    "segmentB": 3963,
+    "segmentC": 2977,
+    "segmentD": 466,
+    "date": "Tuesday, January 28, 2020 3:52 AM"
+  },
+  {
+    "_id": "5f23266f29cbc2e830252173",
+    "segmentA": 4824,
+    "segmentB": 2148,
+    "segmentC": 1788,
+    "segmentD": 1136,
+    "date": "Wednesday, January 16, 2019 4:19 AM"
+  },
+  {
+    "_id": "5f23266fa6f82323ee1e25ce",
+    "segmentA": 3562,
+    "segmentB": 2509,
+    "segmentC": 2818,
+    "segmentD": 1805,
+    "date": "Thursday, October 4, 2018 2:25 AM"
+  },
+  {
+    "_id": "5f23266f133d711e67c84d9c",
+    "segmentA": 4932,
+    "segmentB": 3655,
+    "segmentC": 1948,
+    "segmentD": 1374,
+    "date": "Monday, January 13, 2020 2:18 PM"
+  },
+  {
+    "_id": "5f23266fc3193e64a06d2596",
+    "segmentA": 4331,
+    "segmentB": 3356,
+    "segmentC": 2692,
+    "segmentD": 1948,
+    "date": "Friday, August 16, 2019 12:42 AM"
+  },
+  {
+    "_id": "5f23266fdd14de6dade71216",
+    "segmentA": 3156,
+    "segmentB": 2140,
+    "segmentC": 1158,
+    "segmentD": 1273,
+    "date": "Thursday, January 24, 2019 3:36 PM"
+  },
+  {
+    "_id": "5f23266f8f52c92a4b1f0c1f",
+    "segmentA": 4300,
+    "segmentB": 3850,
+    "segmentC": 2016,
+    "segmentD": 26,
+    "date": "Tuesday, June 18, 2019 4:01 PM"
+  },
+  {
+    "_id": "5f23266f0f92e98ad34e81a1",
+    "segmentA": 3202,
+    "segmentB": 2577,
+    "segmentC": 1383,
+    "segmentD": 858,
+    "date": "Wednesday, March 13, 2019 1:22 AM"
+  }
+]

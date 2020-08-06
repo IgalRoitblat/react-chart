@@ -1,0 +1,20 @@
+.PerformanceBar {
+    .bar-outer {
+        position: relative;
+        height: 2rem;
+        width: 50%;
+        margin: 1%;
+        border: 1px solid;
+    }
+    .bar-inner {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 2rem;
+        background-color: blue;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
