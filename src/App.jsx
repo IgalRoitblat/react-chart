@@ -127,7 +127,6 @@ class App extends Component {
     }
 
     onSegmentSelect(e) {
-        console.log(this.state.filteredDataPointName);
         const filterStartTimestamp = performance.now();
         const filteredData = this.state.fullChartData.filter(
             (segment) => segment.name === e.target.id
