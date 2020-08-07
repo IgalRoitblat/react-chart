@@ -285,8 +285,8 @@ class App extends Component {
             let keys = Object.keys(entry).filter((key) =>
                 key.includes("segment")
             );
-            keys.forEach((key) => {
-                dataBySegment[key].push({ y: entry[key], label: entry[key] });
+            keys.forEach((key, index) => {
+                dataBySegment[key].push({ y: entry[key], label: "Segments" });
             });
         });
         this.setDataToGraph(dataBySegment);
