@@ -34,13 +34,11 @@ class App extends Component {
             clickedItem: {},
         };
     }
-
     sortDataByDate(data) {
         return data.sort((a, b) => {
             return new Date(a.date) - new Date(b.date);
         });
     }
-
     populateSegmentDropdown(data) {
         const dropDownData = [];
         dropDownData.push({
@@ -125,7 +123,6 @@ class App extends Component {
             },
         });
     }
-
     onSegmentSelect(e) {
         const filterStartTimestamp = performance.now();
         const clickedItem = this.state.dropdowns.segments.find(
@@ -176,7 +173,6 @@ class App extends Component {
             ),
         });
     }
-
     getOriginalOfCurrentlyActive() {
         const originalData = [...this.state.fullChartData];
         const currentActiveData = [...this.state.currentActiveData];
@@ -191,7 +187,6 @@ class App extends Component {
 
         return copiedOriginalOfCurrentlyActive;
     }
-
     onDataPointsSelect(e) {
         const filterStartTimestamp = performance.now();
         const clickedItem = this.state.dropdowns.dataPoints.find(
