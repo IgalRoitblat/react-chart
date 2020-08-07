@@ -281,12 +281,12 @@ class App extends Component {
             .forEach((segment) => {
                 dataBySegment[segment] = [];
             });
-        sortedData.forEach((entry) => {
+        sortedData.forEach((entry, index) => {
             let keys = Object.keys(entry).filter((key) =>
                 key.includes("segment")
             );
-            keys.forEach((key, index) => {
-                dataBySegment[key].push({ y: entry[key], label: "Segments" });
+            keys.forEach((key) => {
+                dataBySegment[key].push({ y: entry[key], label: index + 1 });
             });
         });
         this.setDataToGraph(dataBySegment);
