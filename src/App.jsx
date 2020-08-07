@@ -24,9 +24,9 @@ class App extends Component {
                 data: [],
             },
             startupDataPointsLimit: 100,
+            currentDataPointsLimit: null,
             fullChartData: [],
-            filteredSegmentName: "",
-            filteredDataPointName: "",
+            currentActiveData: [],
             dropdowns: {
                 segments: [],
                 dataPoints: [],
@@ -128,48 +128,41 @@ class App extends Component {
 
     onSegmentSelect(e) {
         const filterStartTimestamp = performance.now();
-        const filteredData = this.state.fullChartData.filter(
-            (segment) => segment.name === e.target.id
-        );
         const clickedItem = this.state.dropdowns.segments.find(
             (item) => item.title === e.target.id
         );
+        const filteredData = [
+            ...this.state.fullChartData.filter(
+                (segment) => segment.name === e.target.id
+            ),
+        ];
+        this.state.fullChartData
+            .filter((segment) => segment.name === e.target.id)
+            .forEach((segment, index) => {
+                filteredData[index] = { ...segment };
+            });
+        if (this.state.currentDataPointsLimit) {
+            filteredData.forEach((segment) => {
+                segment.dataPoints = segment.dataPoints.filter(
+                    (data, index) => index < this.state.currentDataPointsLimit
+                );
+            });
+        }
+
         if (filteredData.length === 0) {
             this.setState({
                 chartOptions: {
                     data: this.state.fullChartData,
                 },
-                filteredSegmentName: "",
+                currentActiveData: [...this.state.fullChartData],
             });
         } else {
-            if (this.state.filteredDataPointName !== "") {
-                const filteredDataCopy = [];
-                filteredData.forEach((segment) => {
-                    filteredDataCopy.push({ ...segment });
-                });
-                const selectedDataPoints = [];
-                filteredDataCopy[0].dataPoints.forEach((dataPoint) => {
-                    selectedDataPoints.push({ ...dataPoint });
-                });
-                const filteredDataPoints = selectedDataPoints.splice(
-                    0,
-                    Number(this.state.filteredDataPointName)
-                );
-                filteredDataCopy[0].dataPoints = filteredDataPoints;
-                this.setState({
-                    chartOptions: {
-                        data: filteredDataCopy,
-                    },
-                    filteredSegmentName: e.target.id,
-                });
-            } else {
-                this.setState({
-                    chartOptions: {
-                        data: filteredData,
-                    },
-                    filteredSegmentName: e.target.id,
-                });
-            }
+            this.setState({
+                chartOptions: {
+                    data: filteredData,
+                },
+                currentActiveData: filteredData,
+            });
         }
         const filterEndTimestamp = performance.now();
         const filterLoadTime = this.calcLoadTime(
@@ -184,6 +177,21 @@ class App extends Component {
         });
     }
 
+    getOriginalOfCurrentlyActive() {
+        const originalData = [...this.state.fullChartData];
+        const currentActiveData = [...this.state.currentActiveData];
+        const copiedOriginalOfCurrentlyActive = [];
+        currentActiveData.forEach((segment) => {
+            copiedOriginalOfCurrentlyActive.push({
+                ...originalData.find(
+                    (orginalSegment) => orginalSegment.name === segment.name
+                ),
+            });
+        });
+
+        return copiedOriginalOfCurrentlyActive;
+    }
+
     onDataPointsSelect(e) {
         const filterStartTimestamp = performance.now();
         const clickedItem = this.state.dropdowns.dataPoints.find(
@@ -192,18 +200,12 @@ class App extends Component {
         if (isNaN(e.target.id)) {
             this.setState({
                 chartOptions: {
-                    data: this.state.fullChartData,
+                    data: this.getOriginalOfCurrentlyActive(),
                 },
+                currentDataPointsLimit: null,
             });
         } else {
-            let dataPoints = [];
-            if (this.state.filteredSegmentName !== "") {
-                dataPoints = [...this.state.fullChartData].filter(
-                    (segment) => segment.name === this.state.filteredSegmentName
-                );
-            } else {
-                dataPoints = [...this.state.fullChartData];
-            }
+            const dataPoints = this.getOriginalOfCurrentlyActive();
             let filtered = [];
             filtered = dataPoints.map((segment) => {
                 const newDataPoints = [...segment.dataPoints];
@@ -218,7 +220,8 @@ class App extends Component {
                 chartOptions: {
                     data: filtered,
                 },
-                filteredDataPointName: e.target.id,
+                currentDataPointsLimit: Number(e.target.id),
+                currentActiveData: filtered,
             });
             const filterEndTimestamp = performance.now();
             const filterLoadTime = this.calcLoadTime(
@@ -269,6 +272,7 @@ class App extends Component {
                 data: dataPoints,
             },
             fullChartData: fullChart,
+            currentActiveData: fullChart,
         });
     }
     calcLoadTime(startTime, endTime) {
